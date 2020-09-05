@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace OOP.Operatory
 {
+    /// <summary>
+    /// Przeciazanie operatorow
+    /// </summary>
     public class Wektor
     {
         double x, y;
@@ -34,7 +37,7 @@ namespace OOP.Operatory
         {
             return new Wektor(w1.x + w2.x, w1.y + w2.y);
         }
-        public static Wektor operator +(Wektor w1, double c )
+        public static Wektor operator +(Wektor w1, double c ) 
         {
             return new Wektor(w1.x + c, w1.y + c);
         }
