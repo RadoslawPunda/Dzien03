@@ -1,0 +1,7 @@
+C:\Users\Darczi\Source\Repos\RadoslawPunda\Moj\Dzień03\MiniShop\bin\Debug\MiniShop.exe.config
+C:\Users\Darczi\Source\Repos\RadoslawPunda\Moj\Dzień03\MiniShop\bin\Debug\MiniShop.exe
+C:\Users\Darczi\Source\Repos\RadoslawPunda\Moj\Dzień03\MiniShop\bin\Debug\MiniShop.pdb
+C:\Users\Darczi\Source\Repos\RadoslawPunda\Moj\Dzień03\MiniShop\obj\Debug\MiniShop.csprojAssemblyReference.cache
+C:\Users\Darczi\Source\Repos\RadoslawPunda\Moj\Dzień03\MiniShop\obj\Debug\MiniShop.csproj.CoreCompileInputs.cache
+C:\Users\Darczi\Source\Repos\RadoslawPunda\Moj\Dzień03\MiniShop\obj\Debug\MiniShop.exe
+C:\Users\Darczi\Source\Repos\RadoslawPunda\Moj\Dzień03\MiniShop\obj\Debug\MiniShop.pdb

@@ -1,0 +1,14 @@
+C:\Users\Darczi\source\repos\Dzień03\OOP\bin\Debug\OOP.exe.config
+C:\Users\Darczi\source\repos\Dzień03\OOP\bin\Debug\OOP.exe
+C:\Users\Darczi\source\repos\Dzień03\OOP\bin\Debug\OOP.pdb
+C:\Users\Darczi\source\repos\Dzień03\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+C:\Users\Darczi\source\repos\Dzień03\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Darczi\source\repos\Dzień03\OOP\obj\Debug\OOP.exe
+C:\Users\Darczi\source\repos\Dzień03\OOP\obj\Debug\OOP.pdb
+C:\Users\Darczi\Source\Repos\RadoslawPunda\Moj\Dzień03\OOP\bin\Debug\OOP.exe.config
+C:\Users\Darczi\Source\Repos\RadoslawPunda\Moj\Dzień03\OOP\bin\Debug\OOP.exe
+C:\Users\Darczi\Source\Repos\RadoslawPunda\Moj\Dzień03\OOP\bin\Debug\OOP.pdb
+C:\Users\Darczi\Source\Repos\RadoslawPunda\Moj\Dzień03\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+C:\Users\Darczi\Source\Repos\RadoslawPunda\Moj\Dzień03\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Darczi\Source\Repos\RadoslawPunda\Moj\Dzień03\OOP\obj\Debug\OOP.exe
+C:\Users\Darczi\Source\Repos\RadoslawPunda\Moj\Dzień03\OOP\obj\Debug\OOP.pdb
